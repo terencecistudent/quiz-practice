@@ -1,0 +1,12 @@
+#map {
+    width: 90%;
+    height: 90%;
+    overflow: visible;
+    position: relative;
+    margin: 40px;
+}
+
+.maps-question {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
