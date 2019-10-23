@@ -1,0 +1,18 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #FFEFD5;
+}
+
+/*-------------------------------------------------INDEX.HTML-----*/
+#sub-para {
+    padding-top: 30px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+/*-------------------------------------------------BUTTON-------*/
+.button-padding{
+    padding-top: 50px;
+}
